@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site-dcr",
+      "runtimeExecutable": "powershell.exe",
+      "runtimeArgs": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "C:\\Users\\elect\\AppData\\Local\\Temp\\claude\\C--Users-elect-Desktop-site-DCR\\c40e526f-b076-4469-a7d4-02059793ef13\\scratchpad\\serve.ps1", "-Root", "C:\\Users\\elect\\Desktop\\site DCR", "-Port", "8080"],
+      "port": 8080
+    }
+  ]
+}
